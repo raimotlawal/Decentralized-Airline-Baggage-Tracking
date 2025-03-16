@@ -9,3 +9,7 @@ P
  contracts/location-tracking.clar,b/3/b348d263afb608116e3c865876c0d3bc11f9732e
 O
 tests/location-tracking.test.ts,d/d/ddc797c62ccbc25cccdde504fa073c39413c9acd
+S
+#contracts/luggage-registration.clar,b/2/b29a425165716f31e71ddec21ae8558dde1e3a2e
+R
+"tests/luggage-registration.test.ts,0/c/0ccf2ae96402d0b3fc554a336848a04d0f2b3ce7
